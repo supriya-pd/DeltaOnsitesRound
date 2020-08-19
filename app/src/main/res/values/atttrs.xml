@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CustomView">
+        <attr name="rectangle_height" format="dimension"/>
+        <attr name="rectangle_width" format="dimension"/>
+    </declare-styleable>
+</resources>
